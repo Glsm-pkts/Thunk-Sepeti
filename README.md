@@ -1,8 +1,11 @@
-# React + Vite
+## Thunk Sepeti
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, ürünleri sepete ekleyebileceğiniz, detaylarını görebileceğiniz ve sepet içindeki ürünlerin miktarını artırıp azaltabileceğiniz bir sepet uygulamasıdır. React, Redux ve diğer modern teknolojiler kullanılarak geliştirilmiştir.
 
-Currently, two official plugins are available:
+## Ekran Görüntüsü
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![](./public/Vite%20React%202024-09-13%20at%2010.45.02%20PM.jpg)
+
+## Gif
+
+![](./public/Zight%20Recording%202024-09-13%20at%2010.43.14%20PM.gif)
